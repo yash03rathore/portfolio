@@ -1,10 +1,5 @@
 # 👨‍🎓 Education
-`2023-present` [Sacramento State University]
-- **B.S.** in Computer Science
-- Courses: Data Structures + Algorithm Analysis, Computer Software Engineering, Object-Oriented Computer Graphics, Database Management Systems
-- GPA: 3.37/4.0
-
-`2021-2023` [San Francisco State University]
-- **B.S.** in Computer Science
-- Courses: Intro to Computer Programming, Data Structures and Algorithms, Web Software Development, Machine Structures and Assembly Language
+`August 2021- May 2025` [San Francisco State University]
+- **Bachelor of Science** in Computer Science
+- Related Courses: Intro to Computer Programming, Data Structures and Algorithms, Web Software Development, Machine Structures and Assembly Language, Operating System Principles, Analysis of Algorithms I, Human Computer Interaction, Software Engineering, Natural Language Technologies, System Administration, App Dev for mobile devices. 
 - GPA: 3.38/4.0

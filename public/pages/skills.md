@@ -1,35 +1,26 @@
-# 💻 Skills
+# 💻 Technical Skills
 
-## General Tech Stacks
-- Fullstack Web Development
+## Languages
+-  Java, Python, JavaScript, HTML5, CSS, SQL, C, R, C#
 
-
-## Programming languages
-- JavaScript/TypeScript
-- SQL
-- Java
-- HTML
-- CSS
+## Framework and Libraries
+- ASP.NET Core MVC (learning), ASP.NET MVC (academic exposure), React.js, Node.js,
+Express.js, Redux, Bootstrap, Tailwind CSS, Material-UI, Chakra UI, Spring Boot (learning), Angular (familiar)
 
 ## Databases
-- MySQL
-- SQLite
-- MongoDB
+- MongoDB, MySQL
 
-## Libraries and Frameworks
-- NodeJS
-- ExpressJS
-- ReactJS
-- NextJS
-- HandlebarsJS
+## Dev Tools
+- Microsoft Office Suite, Google Workspace, GitHub, Docker, VS Code, IntelliJ, Eclipse, Jira, Postman, Figma
 
-## Cloud
-- AWS
-- GCP
+## AI Tools
+- OpenAI API, Azure OpenAI, GitHub Copilot, Prompt Engineering
 
-## Tools
-- GIT
-- VScode
-- Docker
-- Kubernetes
-- Postman
+## Cloud Platforms
+- Experience with AWS Technologies(S3, EC2, Lambda, RDS), Microsoft Azure and Google Cloud exposure
+
+## Infrastructure, IT Support and Administration:
+-  IT Service Management (ITSM), Active Directory administration, User account management, Hardware inventory management, Network fundamentals (TCP/IP, DNS, basic connectivity issues)
+
+## Project Management:
+- Agile/Scrum Methodologies, SDLC, Code Reviews, System Debugging, API Development
